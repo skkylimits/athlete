@@ -63,4 +63,5 @@ npm run test:e2e
 
 ##
 - change index html app title
-- add styles in assets to style dir
+- add styles in assets to style dir (added purple color)
+- type support for vscode see above steps
