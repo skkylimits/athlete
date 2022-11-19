@@ -1,3 +1,38 @@
 {
-  "recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"]
+  "recommendations": [
+    // themes/colors & icons
+    "antfu.icons-carbon",
+    "PKief.material-icon-theme",
+    "naumovs.color-highlight",
+
+    // antfu <3
+    "antfu.iconify",
+    "antfu.slidev",
+    "antfu.vite",
+    "antfu.where-am-i",
+    "csstools.postcss",
+    "lokalise.i18n-ally",
+
+    // life savers!
+    "dbaeumer.vscode-eslint",
+    "Vue.volar",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+
+    // bread & butters
+    "ritwickdey.LiveServer",
+    "christian-kohler.path-intellisense",
+    "christian-kohler.npm-intellisense",
+    "ms-vscode.makefile-tools",
+    "dannyconnell.split-html-attributes",
+    "richie5um2.vscode-sort-json",
+    "unional.vscode-sort-package-json",
+    "xabikos.JavaScriptSnippets",
+
+    // up to you
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "mpontus.tab-cycle"
+  ]
 }
